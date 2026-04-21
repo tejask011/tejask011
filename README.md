@@ -1,20 +1,22 @@
 # 💫 About Me:
-I am a passionate tech enthusiast currently focused on building impactful and real-world solutions using modern technologies. I enjoy exploring the intersection of Machine Learning, Data Science, and Full Stack Development, and continuously work on improving both my development and analytical skills.
+# 💫 About Me
 
-(⌐■_■) I’m currently working on a Bias Detection & Auditor System, where I analyze machine learning models to identify bias and improve fairness using techniques like logistic regression and random forests.
+🚀 Tech enthusiast building real-world solutions with **AI/ML + Full Stack**
 
-(❁´◡`❁) I’m actively learning and strengthening my knowledge in:
+🧠 Currently working on a **Bias Detection & Auditor System** for fair ML models
 
-Machine Learning & Data Science (core concepts, model building, evaluation)  
-MERN Stack Development (MongoDB, Express, React, Node.js)  
-Backend Development & API Design  
-Tailwind CSS for modern UI/UX  
+⚡ Learning & improving:
 
-ヾ(⌐■_■) I’m looking to collaborate on projects related to:
+* Machine Learning & Data Science
+* MERN Stack Development
+* Backend & API Design
+* Modern UI with Tailwind
 
-AI/ML-based applications  
-Real-world problem solving systems  
-Full stack web and mobile applications  
+🤝 Open to collaborate on:
+
+* AI/ML projects
+* Real-world problem solving systems
+* Full stack & mobile apps
 
 
 ## 🌐 Socials:
