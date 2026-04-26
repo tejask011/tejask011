@@ -1,9 +1,9 @@
 # 💫 About Me:
 
 
-🚀 Tech enthusiast building real-world solutions with **AI/ML + Full Stack**
+ Tech enthusiast building real-world solutions with **AI/ML + Full Stack**
 
-🧠 Currently working on a **Bias Detection & Auditor System** for fair ML models
+ Currently working on a **Bias Detection & Auditor System** for fair ML models
 
 ⚡ Learning & improving:
 
