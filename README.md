@@ -3,7 +3,7 @@
 
  Tech enthusiast building real-world solutions with **AI/ML + Full Stack**
 
- Currently working on a **Bias Detection & Auditor System** for fair ML models
+currently working on some unfinished work and looking for open-source contribution 
 
 ⚡ Learning & improving:
 
