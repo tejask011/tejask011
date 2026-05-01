@@ -3,7 +3,7 @@
 
  Tech enthusiast building real-world solutions with **AI/ML + Full Stack**
 
-currently working on some unfinished work and looking for open-source contribution 
+Currently working on some unfinished projects and looking for open-source contribution 
 
 ⚡ Learning & improving:
 
