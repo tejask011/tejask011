@@ -32,5 +32,6 @@ Currently working on some unfinished projects and looking for open-source contri
   <img src="https://skillicons.dev/icons?i=c,cpp,ts,java,html,css,js,python,react,reactnative,nodejs,express,tailwind,mongodb,mysql,postgres,firebase,supabase,vercel,netlify,figma&perline=10" />
 </p>
 
-
+## Contribution Graph 
+[![Tejas's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=tejask011&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
