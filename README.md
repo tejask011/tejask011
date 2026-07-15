@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-<img src="https://github.com/Mayur-Pagote/README_Design_Kit/blob/1bb0f2254d2034e5769544f497e47f01b3b9b571/Assets/Multicolor%20Static%20Line.png" width="100%">
+
  Tech enthusiast building real-world solutions with **AI/ML + Full Stack**
 
 Currently working on some unfinished projects and looking for open-source contribution 
