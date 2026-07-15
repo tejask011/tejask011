@@ -1,5 +1,18 @@
 # 💫 About Me:
-
+<p align="center">
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 6" width="100%" height="6">
+    <defs>
+      <linearGradient id="aurora-grad" x1="0%" y1="0%" x2="100%" y2="0%">
+        <stop offset="0%" stop-color="#4f46e5" stop-opacity="0" />
+        <stop offset="15%" stop-color="#4f46e5" stop-opacity="1" />
+        <stop offset="50%" stop-color="#ec4899" stop-opacity="1" />
+        <stop offset="85%" stop-color="#f43f5e" stop-opacity="1" />
+        <stop offset="100%" stop-color="#f43f5e" stop-opacity="0" />
+      </linearGradient>
+    </defs>
+    <rect width="1200" height="3" rx="1.5" fill="url(#aurora-grad)" y="1.5" />
+  </svg>
+</p>
 
  Tech enthusiast building real-world solutions with **AI/ML + Full Stack**
 
