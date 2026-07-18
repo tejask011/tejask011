@@ -1,4 +1,5 @@
 # 💫 About Me:
+<img src="https://raw.githubusercontent.com/Mayur-Pagote/README_Design_Kit/main/public/Assets/aurora-glow-line.png" width="100%" />
 <p align="center">
   <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 6" width="100%" height="6">
     <defs>
