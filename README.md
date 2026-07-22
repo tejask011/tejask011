@@ -1,4 +1,5 @@
 # 💫 About Me:
+<img src="https://raw.githubusercontent.com/Mayur-Pagote/README_Design_Kit/main/public/Assets/aurora-glow-line.svg" width="100%" />
 
  Tech enthusiast building real-world solutions with **AI/ML + Full Stack**
 
