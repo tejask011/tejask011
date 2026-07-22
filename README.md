@@ -1,6 +1,6 @@
 # 💫 About Me:
 <img src="https://raw.githubusercontent.com/tejask011/README_Design_Kit/feature/add-svg-dividers/public/Assets/tech-pulse-dotted-line.gif" width="100%" />
-
+<img src="https://raw.githubusercontent.com/tejask011/README_Design_Kit/feature/add-svg-dividers/public/Assets/aurora-glow-line.svg" width="100%" />
  Tech enthusiast building real-world solutions with **AI/ML + Full Stack**
 
 Currently working on some unfinished projects and looking for open-source contribution 
